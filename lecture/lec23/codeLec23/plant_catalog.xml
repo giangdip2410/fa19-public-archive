@@ -1,0 +1,26 @@
+<catalog>
+    <plant>
+        <common>Bloodroot</common>
+        <botanical>Sanguinaria canadensis</botanical>
+        <zone>4</zone>
+        <light>Mostly Shady</light>
+        <price currency="USD">$2.44</price>
+        <availability>031599</availability>
+    </plant>
+    <plant>
+        <common>Columbine</common>
+        <botanical>Aquilegia canadensis</botanical>
+        <zone>3</zone>
+        <light>Mostly Shady</light>
+        <price currency="USD">$9.37</price>
+        <availability>030699</availability>
+    </plant>
+    <plant>
+        <common>Marsh Marigold</common>
+        <botanical>Caltha palustris</botanical>
+        <zone>4</zone>
+        <light>Mostly Sunny</light>
+        <price currency="CAD">$6.81</price>
+        <availability>051799</availability>
+    </plant>
+</catalog>
